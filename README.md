@@ -3,15 +3,16 @@
 ---
 
 ## **Table of Contents**
-1. [Introduction](#introduction)
-2. [Headers](#headers)
-3. [Formatting Text](#formatting-text)
-4. [Lists](#lists)
-5. [Links and Images](#links-and-images)
-6. [Tables](#tables)
-7. [Code Blocks](#code-blocks)
-8. [Git Commands Section](#git-commands-section)
-9. [Conclusion](#conclusion)
+1.  [Introduction](#introduction)
+2.  [Headers](#headers)
+3.  [Formatting Text](#formatting-text)
+4.  [Lists](#lists)
+5.  [Links and Images](#links-and-images)
+6.  [Tables](#tables)
+7.  [Code Blocks](#code-blocks)
+8.  [Git Commands Section](#git-commands-section)
+9.  [Conclusion](#conclusion)
+10. [Markdown Tips](#markdown-tips)
 
 ---
 
